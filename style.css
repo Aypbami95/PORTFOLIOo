@@ -345,7 +345,6 @@ nav .fa-solid{
     padding-top: 2rem;
 }
 @media only screen and (max-width: 600px){
-    background-image: ;
 nav ul{
     background: #ff004f;
     position: fixed;
